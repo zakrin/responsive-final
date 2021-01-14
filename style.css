@@ -1,0 +1,81 @@
+body{   
+
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size:50px;
+    font-weight: bold;
+   
+}
+
+.name-highlight{
+   color: orange;
+
+}
+
+.women-jacket-card{
+
+    border:0;
+    background-color:lightgray;
+}
+
+.jacket-footer-card{
+
+    border:0;
+    background-color:lightgray ;
+}
+
+.sp-jacket{
+   
+   width:80%;
+   margin-left: auto;
+   margin-right:auto
+ 
+} 
+
+.btn-color{
+  background-color: rgba(5, 194, 5, 0.59);
+  border: 0;
+
+}
+
+h5{
+
+     color:orangered;
+     font-weight: bold;
+}
+
+h4{
+
+    color:rgb(82, 74, 74);
+    font-weight: bold;
+}
+
+h3{
+    color:black;
+    font-weight: bold;
+
+}
+h6{
+    color:black;
+    font-weight: bold;
+}
+
+footer{
+
+    padding:1% 10%;
+    background-color: lightgray;
+}
+
+.contact-card{
+
+     max-width:500px;
+     text-align: center;
+     padding-bottom: 2px;
+     margin:10px;
+     
+}
+p{
+    text-align: center;
+}
